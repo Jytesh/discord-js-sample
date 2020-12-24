@@ -4,7 +4,8 @@
   "description": "A framework for djs bots with command loaders and a help command",
   "main": "app.js",
   "scripts": {
-    "test": ""
+    "test": "node app.js",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
