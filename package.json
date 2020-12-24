@@ -1,0 +1,17 @@
+{
+  "name": "sample-bot",
+  "version": "1.0.0",
+  "description": "A framework for djs bots with command loaders and a help command",
+  "main": "app.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jytesh/discord-js-sample.git"
+  },
+  "keywords": [
+  ],
+  "author": "Jytesh",
+  "license": "ISC"
+}
