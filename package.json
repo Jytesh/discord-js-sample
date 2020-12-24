@@ -10,8 +10,11 @@
     "type": "git",
     "url": "https://github.com/Jytesh/discord-js-sample.git"
   },
-  "keywords": [
-  ],
+  "keywords": [],
   "author": "Jytesh",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^12.5.1"
+  }
 }
